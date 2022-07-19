@@ -1,0 +1,4 @@
+application.properties
+br\com\estudosgovbr\GreetingResource.class
+META-INF\panache-archive.marker
+META-INF\resources\index.html
